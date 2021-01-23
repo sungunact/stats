@@ -725,9 +725,9 @@ Year,CW,Location,Onion_Price,Rainfall
 2016,39,Kolkata,875,728
 2016,40,Kolkata,763,225.4
 2016,41,Kolkata,979,225.4
-2016,42,Kolkata,NULL,225.4
+2016,42,Kolkata,979,225.4
 2016,43,Kolkata,1125,225.4
-2016,44,Kolkata,NULL,225.4
+2016,44,Kolkata,1125,225.4
 2016,45,Kolkata,925,19.2
 2016,46,Kolkata,875,19.2
 2016,47,Kolkata,1396,19.2
@@ -755,7 +755,7 @@ Year,CW,Location,Onion_Price,Rainfall
 2017,16,Kolkata,867,172.6
 2017,17,Kolkata,775,172.6
 2017,18,Kolkata,933,172.6
-2017,19,Kolkata,NULL,333.1
+2017,19,Kolkata,933,333.1
 2017,20,Kolkata,950,333.1
 2017,21,Kolkata,898,333.1
 2017,22,Kolkata,950,333.1
@@ -785,7 +785,7 @@ Year,CW,Location,Onion_Price,Rainfall
 2017,46,Kolkata,3850,25.7
 2017,47,Kolkata,4450,25.7
 2017,48,Kolkata,4625,25.7
-2017,49,Kolkata,NULL,15
-2017,50,Kolkata,NULL,15
-2017,51,Kolkata,NULL,15
-2017,52,Kolkata,NULL,15
+2017,49,Kolkata,4625,15
+2017,50,Kolkata,4625,15
+2017,51,Kolkata,4625,15
+2017,52,Kolkata,4625,15
